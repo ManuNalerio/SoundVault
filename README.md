@@ -226,7 +226,7 @@ Este proyecto está licenciado bajo la Licencia MIT - siéntete libre de usar es
 
 ## 🙏 Agradecimientos
 
-- Metal Archives (metal-archives.com) por la referencia de clasificación de géneros
+- Metal Archives ([metal-archives.com](https://www.metal-archives.com/)) por la referencia de clasificación de géneros
 - La comunidad global del metal por mantener viva la música
 - Todas las bandas incluidas en esta base de datos por sus contribuciones a la música metal
 
